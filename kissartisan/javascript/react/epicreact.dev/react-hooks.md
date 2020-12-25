@@ -18,7 +18,7 @@ Take note of the () => since that is the inline function.
 
 Relevant URL: https://epicreact.dev/modules/react-hooks/useeffect-persistent-state-extra-credit-solution-1
 
-## Difference of Managed State vs Derived State
+## useState: tic tac toe > Managed and Derived State
 - Managed State: State that you need to explicitly manage
 - Derived State: State that you can calculate based on other state
 
