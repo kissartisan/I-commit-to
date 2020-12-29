@@ -33,3 +33,4 @@
 - Vision is the art of seeing the invisible - Jonathan Swift
 - You are what they said until you think you are
 - Those you dare to believe in themselves are ones who will only succeed
+- Consumer of knowledge, producer of wisdom
