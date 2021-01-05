@@ -1,4 +1,4 @@
-## January 5, 2020
+## January 5, 2020, around 11:30 PM - 12:30 AM
 This day was an abs workout day. I specifically searched for an isometric workout and here's the routine that I finished:
 1. Warm up: 20 push ups
 2. [Quick 7-Minute Static Hold Workout For Six Pack Abs (No Reps!)](https://www.youtube.com/watch?v=1KrP-6w5G2Q)
