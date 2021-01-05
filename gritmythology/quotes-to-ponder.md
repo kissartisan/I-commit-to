@@ -33,3 +33,6 @@
 - Vision is the art of seeing the invisible - Jonathan Swift
 - You are what they said until you think you are
 - Those you dare to believe in themselves are ones who will only succeed
+- Consumer of knowledge, producer of wisdom
+- Always think of being a producer rather than being a consumer
+- What separates the rich and the poor? It's about being a producer rather than a consumer
