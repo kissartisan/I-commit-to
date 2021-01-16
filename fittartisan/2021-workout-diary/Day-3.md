@@ -2,7 +2,7 @@
 Morning
 - 50 push-ups
 
-Evening
+Evening (back day)
 1. 8 reps, 3 sets of pull-ups
 2. 10 reps, 3 sets of band dead lifts
 3. 10 reps, 3 sets of single arm dumbell row
