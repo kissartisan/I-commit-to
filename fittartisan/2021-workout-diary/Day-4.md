@@ -14,4 +14,5 @@ Afternoon
 10. 3 sets, 8-10 reps of dumbell concentration curls
 
 I got the workout 3-7 on [Athlean X - Home Bicep Workout](https://www.youtube.com/watch?v=v07X1a7nOAE).
-I just modified the banded step back curls to be single arm to get maximum load.
+
+And I modified the banded step back curls to be single arm to get maximum load.
