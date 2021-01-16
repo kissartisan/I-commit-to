@@ -11,7 +11,7 @@ Afternoon
 7. 3 sets, 10 reps of cross body dumbell hammer curls
 8. 3 sets, 10 reps of Banded shrugs
 9. 3 sets, 10 reps of Pistol Squats
-10. 3 sets, 8-10 reps of bicep curls
+10. 3 sets, 8-10 reps of dumbell concentration curls
 
 I got the workout 3-7 on [Athlean X - Home Bicep Workout](https://www.youtube.com/watch?v=v07X1a7nOAE).
 I just modified the banded step back curls to be single arm to get maximum load.
