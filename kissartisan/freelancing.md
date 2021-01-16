@@ -1,4 +1,4 @@
-## Critical factorrs to be successful while working remotely with clients
+## Critical factors to be successful while working remotely with clients
 
 - First, it's always about trust & clear communication. 
 - After everything were explained well and laid out perfectly, the second one is commitment to great results with minimum supervision.
