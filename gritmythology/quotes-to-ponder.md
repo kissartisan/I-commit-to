@@ -36,3 +36,4 @@
 - Consumer of knowledge, producer of wisdom
 - Always think of being a producer rather than being a consumer
 - What separates the rich and the poor? It's about being a producer rather than a consumer
+- Try to work smart, but don't try to work hard. That should be default. 
