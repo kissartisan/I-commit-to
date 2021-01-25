@@ -10,12 +10,20 @@ After understanding it, I can say in my own words is that raising a number to th
 
 I understand it much better when read the 4th answer about the mathematical pattern of it:
 
-3**5 = 3*3*3*3*3 = 243
-3**4 = 3*3*3*3 = 81
-3**3 = 3*3*3 = 27
-3**2 = 3*3 = 9
-3**1 = 3 = 3
-3**0 = 3/3 = 1
-3**-1 = 1/3 = 0.3333... (this decimal repeats forever)
-3**(-2) = 1/3/3 = 0.1111...
-3**(-3) = 1/3/3/3 = 0.037037...
+- 3**5 = 3*3*3*3*3 = 243
+
+- 3**4 = 3*3*3*3 = 81
+
+- 3**3 = 3*3*3 = 27
+
+- 3**2 = 3*3 = 9
+
+- 3**1 = 3 = 3
+
+- 3**0 = 3/3 = 1
+
+- 3**-1 = 1/3 = 0.3333... (this decimal repeats forever)
+
+- 3**(-2) = 1/3/3 = 0.1111...
+
+- 3**(-3) = 1/3/3/3 = 0.037037...
