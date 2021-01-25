@@ -10,13 +10,13 @@ After understanding it, I can say in my own words is that raising a number to th
 
 I understand it much better when read the 4th answer about the mathematical pattern of it:
 
-- 3**5 = 3*3*3*3*3 = 243
+- 3**5 = 3x3x3x3x3 = 243
 
-- 3**4 = 3*3*3*3 = 81
+- 3**4 = 3x3x3x3 = 81
 
-- 3**3 = 3*3*3 = 27
+- 3**3 = 3x3x3 = 27
 
-- 3**2 = 3*3 = 9
+- 3**2 = 3x3 = 9
 
 - 3**1 = 3 = 3
 
