@@ -1,4 +1,3 @@
-
 ## February 4, 2021
 
 I had the chance go to the gym for the very first time after the boom of pandemic.
