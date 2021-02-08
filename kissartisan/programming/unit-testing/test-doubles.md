@@ -3,7 +3,8 @@ Types of test doubles:
 2. Mock - includes expectations on what method needs to be called
 3. Stub - includes expectations on what needs to be returned
 
-Downsides:
+
+Two types of approaches when testing test doubles:
 Classical approach (Detroit approach)
 * Try to use real object wherever you can.
 * Only use test doubles if it's incredibly incovenient to use the real object.
