@@ -1,4 +1,4 @@
-## February 20, 2021
+## February 21, 2021
 
 - 2 sets / 26 reps  of push-ups
 - 2 sets / 26 reps of (1st set leg raises, 2nd set starfish crunches)
