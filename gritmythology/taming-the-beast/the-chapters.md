@@ -8,6 +8,7 @@ II. Living inside the beast
 III. The wake-up call
 
 IV. How did I do it (and you will, too!)
+- Pause, play, repeat
 
 V. Time to face the “beast” again
 
