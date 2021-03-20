@@ -1,4 +1,4 @@
 ## March 18, 2021
-- 78 reps of body weight squats
-- 78 reps of push-ups
-- 78 reps of sit-ups
+- 77 reps of body weight squats
+- 77 reps of push-ups
+- 77 reps of sit-ups
