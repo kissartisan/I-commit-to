@@ -1,4 +1,4 @@
-- Life is so huge that if you noticed it, you can hardly see the big picture. But when you see it, you can gain a lot of wisdom on every unknown questions.
+- Life is so huge that if you noticed it, you can hardly see the big picture. But when you see it, you can gain a lot of wisdom.
 - Quotes are not enough
 - It's not about the fruits, it's the roots
 - It's not what you have. It's what you do.
