@@ -1,0 +1,4 @@
+From https://justjavascript.com/learn/09-mutation:
+
+
+<ul><li>Objects are never “nested” in our universe—pay close attention to the wires.</li><li>Changing an object’s property is also called <em>mutating</em> that object.</li><li>If you mutate an object, your code will “see” that change via any wires pointing to that object. Sometimes, this may be what you want. However, mutating accidentally shared data may cause bugs.</li><li>You can declare a variable with <code>const</code> instead of <code>let</code>. That allows you to enforce that this variable always points to the same value. But remember that <code>const</code> does <em>not</em> prevent object mutation!</li><li>Mutating the objects you’ve just created in code is safe. Broadly, how much you’ll use mutation depends on your app’s architecture.</li></ul>

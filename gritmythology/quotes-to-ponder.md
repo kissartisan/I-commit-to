@@ -1,0 +1,47 @@
+- There's no permanent career in the world -- it's about the value the you'll leave that will stay permanent.
+-  Life is so huge that if you noticed it, you can hardly see the big picture. But when you see it, you can gain a lot of wisdom.
+- Quotes are not enough
+- It's not about the fruits, it's the roots
+- It's not what you have. It's what you do.
+- Want more time? Focus.
+- Being rich is not about intelligence, it's about the mindset
+- Focus beats talent
+- Mouth shut, keep calm & stay in the present moment
+- Try never to be the smartest person in the room. And if you are, I suggest you invite smarter people... Or find a different room.
+- Michael Dell
+- Commit yourself to mastery
+- If you feel like you're at the top, you would not have an opportunity to climb higher.
+- A salary is someone else’s opinion of how much you are worth.
+- Never lose money for free.
+- The size of your success is measured by the strength of your desire
+- One of the best lessons you can learn in life is to master how to remain calm.
+- Who do I have to be to produce the results I want?
+- Most people in this world live just for the sake of surviving, not to find their passion & real purpose
+- Sometimes, patience tests you, in its most abstract form.
+- I have no dreams, I have goals.
+- Enough quote. Do it.
+- Life can be complicated. If you would like it to.
+- “The price of anything is the amount of life you exchange for it.”
+— Henry David Thoreau
+- People don't care how much you know until they know how much you care                          — Stephen Covey
+- Being fit is self respect
+- We will never waste it when it was money, so why do we waste it when it comes to time?
+- There are some times that you need to put authority to something to get what you want.
+- Use your authority, if and only if its necessary
+- It takes a little courage to make something happen within your favor
+- Do me a favor to tell me what you really feel, so I can handle the situation better
+- It's not about how many books you've read, its about how much you learn from every book you've read
+- Becoming rich is not by chance, it's by being determined to become one
+- Vision is the art of seeing the invisible - Jonathan Swift
+- You are what they said until you think you are
+- Those you dare to believe in themselves are ones who will only succeed
+- Consumer of knowledge, producer of wisdom
+- Always think of being a producer rather than being a consumer
+- What separates the rich and the poor? It's about being a producer rather than a consumer
+- Try to work smart, but don't try to work hard. That should be default. 
+- Simplicity is the consequence of refined emotions. - Jean D'Alembert
+- It's how you act when you are losing not when you are winning.
+- Sometimes it's natural, sometimes it's sharp & sometimes it's flat. Whatever the tune is, we will always stay in beat.
+- Sail through life like you have nothing to lose.
+- "You might have more talent than me, you might be smarter than me, you might be sexier than me, you might be all of those things you got it on me in nine categories. But if we get on the treadmill together, there’s two things: You’re getting off first, or I’m going to die. It’s really that simple, right?” -Will Smith
+- Have emphaty with your biggest villan in your life
