@@ -104,6 +104,7 @@
 
 ### Smooth and steady
 - Queen's Gambit Declined: Exchange, Positional Line: https://www.chess.com/analysis/game/live/79286003493
+- Trompowsky Attack: https://www.chess.com/analysis/game/live/79287210171
 - Queen's Gambit Declined: https://lichess.org/CfGYhuaZ/white
 - Queen's Gambit Accepted: Old Variation: https://www.chess.com/analysis/game/live/74659831827?tab=review
 - Budapest Gambit: Fajarowicz Variation: https://www.chess.com/analysis/game/live/74673796907
