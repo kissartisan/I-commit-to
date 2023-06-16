@@ -26,6 +26,9 @@
 
 ## Black
 
+### Stealth moves
+- Old Benoni Defense: https://www.chess.com/analysis/game/live/80627473681
+
 ### Benko Gambits
 - Benko Gambit Half-Accepted: Modern Variation: https://www.chess.com/game/live/76238974859
 
