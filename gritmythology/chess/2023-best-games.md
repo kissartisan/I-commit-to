@@ -21,6 +21,9 @@
 - Semi-Slav Defense: Anti-Meran Gambit: https://www.chess.com/analysis/game/live/76409475837
     - Time control, keep the pressure 
 
+# High-accuracy games
+- 93% = Queen's Gambit Declined: Modern Variation: https://www.chess.com/analysis/game/live/81057673315
+
 ## Never Give Up
 - Sicilian Defense: Hyperaccelerated Dragon, Fianchetto Variation: https://www.chess.com/analysis/game/live/76492338027
 
