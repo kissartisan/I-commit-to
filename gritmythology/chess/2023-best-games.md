@@ -76,6 +76,9 @@
 
 ## White
 
+### X-Ray Attack
+- Queen's Gambit Accepted: Old Variation: https://www.chess.com/analysis/game/live/81275511777
+
 ### Englund Gambits
 - Competitive Match: https://www.chess.com/analysis/game/live/76254667991
 
