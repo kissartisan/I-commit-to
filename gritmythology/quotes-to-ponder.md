@@ -45,3 +45,4 @@
 - Sail through life like you have nothing to lose.
 - "You might have more talent than me, you might be smarter than me, you might be sexier than me, you might be all of those things you got it on me in nine categories. But if we get on the treadmill together, there’s two things: You’re getting off first, or I’m going to die. It’s really that simple, right?” -Will Smith
 - Have emphaty with your biggest villan in your life
+- Money is "made" after value is "created."
