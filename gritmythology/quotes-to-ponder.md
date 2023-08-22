@@ -47,3 +47,4 @@
 - Have emphaty with your biggest villan in your life
 - Money is "made" after value is "created."
 -  "Everyone is walking around in someone else's idea" - Russ
+-  "What will other people think?" - That one sentence has killed more dreams than any alarm clock.
