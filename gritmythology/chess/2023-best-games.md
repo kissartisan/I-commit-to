@@ -13,6 +13,8 @@
     - Destroying the Dutch Defense
 9. Benko Gambit Fully-Accepted: https://www.chess.com/analysis/game/live/76153235987
     - Played well on the fully-accepted gambit
+10. Trompowsky Attack: Raptor Variation: https://lichess.org/ZUhZPThP/white
+    - Very aggresive opening, opponent didn't have the chance to develop its pieces
 
 
 # Hardest games
