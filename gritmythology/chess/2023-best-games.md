@@ -62,6 +62,7 @@
 - Sicilian Defense: Old Sicilian Variation: https://www.chess.com/analysis/game/live/74096987287
 - Sicilian Defense: Bowdler Attack: https://www.chess.com/analysis/game/live/76332812955
   - 100% lose, then swing back to 100% win
+- Queen's Gambit Declined: Exchange Variation: https://lichess.org/nhdHzZ2i/white
 
 ### Pure Intuition
 - Sicilian Defense: Hyperaccelerated Dragon Variation: https://www.chess.com/analysis/game/live/69862028357
