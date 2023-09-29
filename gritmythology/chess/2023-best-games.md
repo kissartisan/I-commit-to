@@ -52,6 +52,7 @@
 
 ### Aggressive games
 - English Opening: Symmetrical Variation: https://www.chess.com/analysis/game/live/75814184939
+- Queen's Gambit Declined: Exchange Variation: https://lichess.org/19V04UXE/white
 
 ### Building pressure
 - Sicilian Defense: Open, Accelerated Dragon, Modern Variation: https://www.chess.com/analysis/game/live/75205227597
