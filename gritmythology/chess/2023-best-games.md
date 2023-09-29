@@ -29,6 +29,7 @@
 
 # Sacrifices
 - Knight sac (brilliant): https://www.chess.com/analysis/game/live/88657857681
+- Knight sac = mate in 4: https://lichess.org/yOev2Hx6/white
 
 ## Never Give Up
 - Sicilian Defense: Hyperaccelerated Dragon, Fianchetto Variation: https://www.chess.com/analysis/game/live/76492338027
