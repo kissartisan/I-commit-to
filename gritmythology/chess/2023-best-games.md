@@ -15,6 +15,8 @@
     - Played well on the fully-accepted gambit
 10. Trompowsky Attack: Raptor Variation: https://lichess.org/ZUhZPThP/white
     - Very aggresive opening, opponent didn't have the chance to develop its pieces
+11. Queen's Gambit Declined: https://lichess.org/S9mG51Wg/white
+    - Counter attack by sacrifice
 
 
 # Hardest games
