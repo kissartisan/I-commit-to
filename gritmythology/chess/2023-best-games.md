@@ -35,6 +35,7 @@
 
 ## Never Give Up
 - Sicilian Defense: Hyperaccelerated Dragon, Fianchetto Variation: https://www.chess.com/analysis/game/live/76492338027
+- Queen's Pawn Game: https://lichess.org/3HcU2IkJ/black
 
 ## Black
 
