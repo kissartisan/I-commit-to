@@ -116,6 +116,7 @@
 ### Aggressive games
 - Old Benoni Defense: https://www.chess.com/analysis/game/live/74843450473
 - Englund Gambit: https://www.chess.com/analysis/game/live/75204120307
+- Queen's Pawn Game: Modern Defense: https://lichess.org/rSPqmMur/white
 
 ### 0.1 Second win
 - Queen's Gambit Declined: Marshall Defense: https://www.chess.com/game/live/74664082115
