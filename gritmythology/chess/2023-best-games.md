@@ -51,6 +51,7 @@
 
 ### Early Game Assasin
 - Sicilian Defense: Hyperaccelerated Dragon, Fianchetto, Pterodactyl Defense: https://www.chess.com/analysis/game/live/76146765341
+- Old Benoni Defense: https://www.chess.com/analysis/game/live/90958210283
 
 
 ### End Game Assassin
