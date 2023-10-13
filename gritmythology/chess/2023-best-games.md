@@ -17,6 +17,9 @@
     - Very aggresive opening, opponent didn't have the chance to develop its pieces
 11. Queen's Gambit Declined: https://lichess.org/S9mG51Wg/white
     - Counter attack by sacrifice
+   
+12. Sicilian Defense: Old Sicilian: https://lichess.org/Nh8KWb9D/black
+    - Defending calm and composed
 
 
 # Hardest games
