@@ -14,7 +14,7 @@
 9. Benko Gambit Fully-Accepted: https://www.chess.com/analysis/game/live/76153235987
     - Played well on the fully-accepted gambit
 10. Trompowsky Attack: Raptor Variation: https://lichess.org/ZUhZPThP/white
-    - Very aggresive opening, opponent didn't have the chance to develop its pieces
+    - Very aggressive opening, opponent didn't have the chance to develop its pieces
 11. Queen's Gambit Declined: https://lichess.org/S9mG51Wg/white
     - Counter attack by sacrifice
    
@@ -35,8 +35,10 @@
 - 92.4% = Sicilian Defense: Closed, Traditional Line: https://www.chess.com/analysis/game/live/85250532859
 
 # Sacrifices
+- Queen sac (brilliant): https://lichess.org/B2HM0R89/white
 - Knight sac (brilliant): https://www.chess.com/analysis/game/live/88657857681
 - Knight sac = mate in 4: https://lichess.org/yOev2Hx6/white
+- Sicilian Defense: Bowdler Attack: https://www.chess.com/analysis/game/live/75028309013
 
 ## Never Give Up
 - Sicilian Defense: Hyperaccelerated Dragon, Fianchetto Variation: https://www.chess.com/analysis/game/live/76492338027
@@ -155,6 +157,3 @@
 ### Intense matches
 - Englund Gambit: https://www.chess.com/game/live/73651788287
 - Queen's Gambit Accepted: https://www.chess.com/analysis/game/live/74945600039
-
-### Sacrifices
-- Sicilian Defense: Bowdler Attack: https://www.chess.com/analysis/game/live/75028309013
