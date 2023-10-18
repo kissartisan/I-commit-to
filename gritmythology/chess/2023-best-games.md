@@ -41,7 +41,10 @@
 - Sicilian Defense: Bowdler Attack: https://www.chess.com/analysis/game/live/75028309013
 
 ## Never Give Up
+- Nimzo-Larsen Attack: English Variation: https://lichess.org/LOb8uJbm/black
+    - THE MOST UPSET WIN    
 - Sicilian Defense: Hyperaccelerated Dragon, Fianchetto Variation: https://www.chess.com/analysis/game/live/76492338027
+
 
 ## Black
 
