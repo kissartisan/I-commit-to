@@ -14,7 +14,7 @@
 9. Benko Gambit Fully-Accepted: https://www.chess.com/analysis/game/live/76153235987
     - Played well on the fully-accepted gambit
 10. Trompowsky Attack: Raptor Variation: https://lichess.org/ZUhZPThP/white
-    - Very aggressive opening, opponent didn't have the chance to develop its pieces
+    - Very aggressive opening, the opponent didn't have the chance to develop its pieces
 11. Queen's Gambit Declined: https://lichess.org/S9mG51Wg/white
     - Counter attack by sacrifice
    
@@ -66,6 +66,7 @@
 ### Aggressive games
 - English Opening: Symmetrical Variation: https://www.chess.com/analysis/game/live/75814184939
 - Queen's Gambit Declined: Exchange Variation: https://lichess.org/19V04UXE/white
+- King's Indian Defense: Smyslov Variation: https://lichess.org/MnBXCZqS/white
 
 ### Building pressure
 - Sicilian Defense: Open, Accelerated Dragon, Modern Variation: https://www.chess.com/analysis/game/live/75205227597
