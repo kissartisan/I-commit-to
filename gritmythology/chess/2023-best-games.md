@@ -45,6 +45,10 @@
     - THE MOST UPSET WIN    
 - Sicilian Defense: Hyperaccelerated Dragon, Fianchetto Variation: https://www.chess.com/analysis/game/live/76492338027
 
+## Strong pieces positions
+- B27 Sicilian Defense: Hyperaccelerated Dragon: https://lichess.org/JHzWYay6/black
+    - Twin tower bishop
+
 
 ## Black
 
