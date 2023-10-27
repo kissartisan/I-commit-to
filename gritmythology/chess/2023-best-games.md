@@ -77,6 +77,8 @@
 - Sicilian Defense: Old Sicilian Variation: https://www.chess.com/analysis/game/live/75889786359
 
 ### Hit and miss intense game
+- Trompowsky attack: https://www.chess.com/analysis/game/live/92158857123
+    - Quenless because of blunder, then built a defense using enemiy's pawns
 - Sicilian Defense: Old Sicilian Variation: https://www.chess.com/analysis/game/live/74096987287
 - Sicilian Defense: Bowdler Attack: https://www.chess.com/analysis/game/live/76332812955
   - 100% lose, then swing back to 100% win
