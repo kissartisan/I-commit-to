@@ -3,23 +3,24 @@
     - Two brilliant moves
 3. Queen's Gambit Declined: Traditional Variation https://www.chess.com/game/live/70799587415
 4. Sicilian Defense: Alapin Variation: https://www.chess.com/analysis/game/live/73997522735
-5. Sicilian Defense: Open, Accelerated Dragon, Modern Variation: https://www.chess.com/analysis/game/live/75201692919 
+   - Pendulum checkmate
+6. Sicilian Defense: Open, Accelerated Dragon, Modern Variation: https://www.chess.com/analysis/game/live/75201692919 
     - Smooth game, high accuracy
-6. Benko Gambit Fully-Accepted: https://www.chess.com/analysis/game/live/75258024991
+7. Benko Gambit Fully-Accepted: https://www.chess.com/analysis/game/live/75258024991
     - Missed the fully accepted tactic opening, but brilliant move saves my day
-7. Englund Gambit: https://www.chess.com/analysis/game/live/75748376427
+8. Englund Gambit: https://www.chess.com/analysis/game/live/75748376427
     - Perfected the Englund Gambit counter
-8. Dutch Defense: Hopton Attack: https://www.chess.com/analysis/game/live/76143716363
+9. Dutch Defense: Hopton Attack: https://www.chess.com/analysis/game/live/76143716363
     - Destroying the Dutch Defense
-9. Benko Gambit Fully-Accepted: https://www.chess.com/analysis/game/live/76153235987
+10. Benko Gambit Fully-Accepted: https://www.chess.com/analysis/game/live/76153235987
     - Played well on the fully-accepted gambit
-10. Trompowsky Attack: Raptor Variation: https://lichess.org/ZUhZPThP/white
+11. Trompowsky Attack: Raptor Variation: https://lichess.org/ZUhZPThP/white
     - Very aggressive opening, the opponent didn't have the chance to develop its pieces
-11. Queen's Gambit Declined: https://lichess.org/S9mG51Wg/white
+12. Queen's Gambit Declined: https://lichess.org/S9mG51Wg/white
     - Counter attack by sacrifice
-12. Sicilian Defense: Old Sicilian: https://lichess.org/Nh8KWb9D/black
+13. Sicilian Defense: Old Sicilian: https://lichess.org/Nh8KWb9D/black
     - Defending calm and composed
-13. Slav Defense: Modern, Bishop's Game: https://www.chess.com/analysis/game/live/92413396165
+14. Slav Defense: Modern, Bishop's Game: https://www.chess.com/analysis/game/live/92413396165
     - Rook brilliant sacrifice
 
 
