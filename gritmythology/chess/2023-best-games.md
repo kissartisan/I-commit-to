@@ -17,9 +17,10 @@
     - Very aggressive opening, the opponent didn't have the chance to develop its pieces
 11. Queen's Gambit Declined: https://lichess.org/S9mG51Wg/white
     - Counter attack by sacrifice
-   
 12. Sicilian Defense: Old Sicilian: https://lichess.org/Nh8KWb9D/black
     - Defending calm and composed
+13. Slav Defense: Modern, Bishop's Game: https://www.chess.com/analysis/game/live/92413396165
+    - Rook brilliant sacrifice
 
 
 # Hardest games
