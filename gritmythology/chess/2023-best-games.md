@@ -32,6 +32,9 @@
     - Time control, keep the pressure
 - Queen's Pawn Game: https://lichess.org/3HcU2IkJ/black
     - Close game, I blundered, then regain the win
+- Sicilian Defense: Alapin Variation: https://www.chess.com/analysis/game/live/92764325939
+    - Close to winning, then, I blundered the worst way that only one right move and I'm checkmate
+    - Regain the win by never saying die
 
 # High-accuracy games
 - 93% = Queen's Gambit Declined: Modern Variation: https://www.chess.com/analysis/game/live/81057673315
