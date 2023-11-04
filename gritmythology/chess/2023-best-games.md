@@ -28,6 +28,9 @@
 14. Slav Defense: Modern, Bishop's Game: https://www.chess.com/analysis/game/live/92413396165
     - Rook brilliant sacrifice
 
+# Brilliance
+- Queen's Gambit Accepted: Old Variation: https://www.chess.com/analysis/game/live/92857323549
+  - Knight sac
 
 # Hardest games
 - Old Benoni Defense: https://www.chess.com/analysis/game/live/76253421311
