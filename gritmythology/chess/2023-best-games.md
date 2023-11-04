@@ -1,6 +1,7 @@
 # The Best of Best
 1. Old Benoni Defense: https://www.chess.com/analysis/game/live/92856080831
    - Most competitive match!
+   - Opponent had a better start and better position. But I was creative enough to counterattack.
 3. Queen's Gambit Declined: Traditional, Capablanca-Důras Variation: https://www.chess.com/analysis/game/live/74161799319
     - Two brilliant moves
 4. Queen's Gambit Declined: Traditional Variation https://www.chess.com/game/live/70799587415
