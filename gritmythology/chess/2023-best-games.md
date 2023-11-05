@@ -1,31 +1,33 @@
 # The Best of Best
-1. Old Benoni Defense: https://www.chess.com/analysis/game/live/92856080831
+1. Sicilian Defense: Closed, Fianchetto Variation: https://www.chess.com/analysis/game/live/92936467855
+   - Knight sac, counterattack. Unstoppable checkmate that the opponent does not expect.
+3. Old Benoni Defense: https://www.chess.com/analysis/game/live/92856080831
    - Most competitive match!
    - The opponent has a better game and a better position. But I was creative enough to counterattack.
    - This has a lot of blunders, but when you're the one in the game. You thought you made the right move, as I can anticipate his moves too.
-3. Queen's Gambit Declined: Traditional, Capablanca-Důras Variation: https://www.chess.com/analysis/game/live/74161799319
+4. Queen's Gambit Declined: Traditional, Capablanca-Důras Variation: https://www.chess.com/analysis/game/live/74161799319
     - Two brilliant moves
-4. Queen's Gambit Declined: Traditional Variation https://www.chess.com/game/live/70799587415
+5. Queen's Gambit Declined: Traditional Variation https://www.chess.com/game/live/70799587415
    - Hit and miss game, but nice knight checkmate
-5. Sicilian Defense: Alapin Variation: https://www.chess.com/analysis/game/live/73997522735
+6. Sicilian Defense: Alapin Variation: https://www.chess.com/analysis/game/live/73997522735
    - Pendulum checkmate
-6. Sicilian Defense: Open, Accelerated Dragon, Modern Variation: https://www.chess.com/analysis/game/live/75201692919 
+7. Sicilian Defense: Open, Accelerated Dragon, Modern Variation: https://www.chess.com/analysis/game/live/75201692919 
     - Smooth game, high accuracy
-7. Benko Gambit Fully-Accepted: https://www.chess.com/analysis/game/live/75258024991
+8. Benko Gambit Fully-Accepted: https://www.chess.com/analysis/game/live/75258024991
     - Missed the fully accepted tactic opening, but brilliant move saves my day
-8. Englund Gambit: https://www.chess.com/analysis/game/live/75748376427
+9. Englund Gambit: https://www.chess.com/analysis/game/live/75748376427
     - Perfected the Englund Gambit counter
-9. Dutch Defense: Hopton Attack: https://www.chess.com/analysis/game/live/76143716363
+10. Dutch Defense: Hopton Attack: https://www.chess.com/analysis/game/live/76143716363
     - Destroying the Dutch Defense
-10. Benko Gambit Fully-Accepted: https://www.chess.com/analysis/game/live/76153235987
+11. Benko Gambit Fully-Accepted: https://www.chess.com/analysis/game/live/76153235987
     - Played well on the fully-accepted gambit
-11. Trompowsky Attack: Raptor Variation: https://lichess.org/ZUhZPThP/white
+12. Trompowsky Attack: Raptor Variation: https://lichess.org/ZUhZPThP/white
     - Very aggressive opening, the opponent didn't have the chance to develop its pieces
-12. Queen's Gambit Declined: https://lichess.org/S9mG51Wg/white
+13. Queen's Gambit Declined: https://lichess.org/S9mG51Wg/white
     - Counter attack by sacrifice
-13. Sicilian Defense: Old Sicilian: https://lichess.org/Nh8KWb9D/black
+14. Sicilian Defense: Old Sicilian: https://lichess.org/Nh8KWb9D/black
     - Defending calm and composed
-14. Slav Defense: Modern, Bishop's Game: https://www.chess.com/analysis/game/live/92413396165
+15. Slav Defense: Modern, Bishop's Game: https://www.chess.com/analysis/game/live/92413396165
     - Rook brilliant sacrifice
 
 # Brilliance
