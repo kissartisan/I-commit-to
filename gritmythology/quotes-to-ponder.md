@@ -27,24 +27,24 @@
 - Being fit is self respect
 - We will never waste it when it was money, so why do we waste it when it comes to time?
 - There are some times that you need to put authority to something to get what you want.
-- Use your authority, if and only if its necessary
+- Use your authority if and only if its necessary
 - It takes a little courage to make something happen within your favor
 - Do me a favor to tell me what you really feel, so I can handle the situation better
 - It's not about how many books you've read, its about how much you learn from every book you've read
 - Becoming rich is not by chance, it's by being determined to become one
 - Vision is the art of seeing the invisible - Jonathan Swift
 - You are what they said until you think you are
-- Those you dare to believe in themselves are ones who will only succeed
+- Those who dare to believe in themselves are the ones who will only succeed
 - Consumer of knowledge, producer of wisdom
 - Always think of being a producer rather than being a consumer
 - What separates the rich and the poor? It's about being a producer rather than a consumer
-- Try to work smart, but don't try to work hard. That should be default. 
+- Try to work smart, but don't try to work hard. That should be the default. 
 - Simplicity is the consequence of refined emotions. - Jean D'Alembert
 - It's how you act when you are losing not when you are winning.
 - Sometimes it's natural, sometimes it's sharp & sometimes it's flat. Whatever the tune is, we will always stay in beat.
 - Sail through life like you have nothing to lose.
-- "You might have more talent than me, you might be smarter than me, you might be sexier than me, you might be all of those things you got it on me in nine categories. But if we get on the treadmill together, there’s two things: You’re getting off first, or I’m going to die. It’s really that simple, right?” -Will Smith
-- Have emphaty with your biggest villan in your life
+- "You might have more talent than me, you might be smarter than me, you might be sexier than me, you might be all of those things you got it on me in nine categories. But if we get on the treadmill together, there are two things: You’re getting off first, or I’m going to die. It’s really that simple, right?” -Will Smith
+- Have empathy with your biggest villain in your life
 - Money is "made" after value is "created."
 -  "Everyone is walking around in someone else's idea" - Russ
 -  "What will other people think?" - That one sentence has killed more dreams than any alarm clock.
