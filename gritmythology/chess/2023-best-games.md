@@ -67,6 +67,9 @@
 
 ## Black
 
+### Counter attacks
+- Old Benoni Defense: https://www.chess.com/analysis/game/live/93796815189
+
 ### Stealth moves
 - Old Benoni Defense: https://www.chess.com/analysis/game/live/80627473681
 
