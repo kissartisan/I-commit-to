@@ -175,6 +175,8 @@
 
 ### Weirdest checkmates
 - Queen's Gambit Declined: https://www.chess.com/analysis/game/live/68390658279 (march of death)
+- Sicilian Defense, Closed: https://www.chess.com/analysis/game/live/93799807055
+  - Checkmate by pawn and knight 
 
 
 ### Perfect setup
