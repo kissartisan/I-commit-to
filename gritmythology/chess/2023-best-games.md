@@ -136,6 +136,7 @@
 
 ### Forced checkmate
 - Slav Defense: Modern, Three Knights Variation: https://www.chess.com/analysis/game/live/75813139881
+- Trompowsky attack: https://www.chess.com/analysis/game/live/93795035449
 
 ### Building pressure
 - Queen's Gambit Declined: Baltic Defense: https://www.chess.com/analysis/game/live/75207113801
