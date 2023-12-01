@@ -111,6 +111,8 @@
 
 ### Tricky moves
 - Sicilian Defense: Nyezhmetdinov-Rossolimo Attack: https://lichess.org/nIigdKgk/black
+- Sicilian Defense: Grand Prix Attack: https://www.chess.com/analysis/game/live/95159332829
+   - Low accuracy game but very interesting
 
 ### Smooth and steady
 - Sicilian Defense: Accelerated Dragon, Modern Variation: https://lichess.org/cHVeHU55/black
