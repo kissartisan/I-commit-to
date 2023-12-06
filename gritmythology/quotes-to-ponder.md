@@ -1,4 +1,4 @@
-- Triple down on your strengths and surround yourself with people that compliment your weakness.
+- Triple down on your strengths and surround yourself with people that compliment your weakness. - Gary V
 - There's no permanent career in the world -- it's about the value the you'll leave that will stay permanent.
 -  Life is so huge that if you noticed it, you can hardly see the big picture. But when you see it, you can gain a lot of wisdom.
 - Quotes are not enough
