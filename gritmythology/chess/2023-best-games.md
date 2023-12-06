@@ -50,6 +50,7 @@
 - 92.4% = Sicilian Defense: Closed, Traditional Line: https://www.chess.com/analysis/game/live/85250532859
 
 # Sacrifices
+- Queen sac (brilliant): https://www.chess.com/analysis/game/live/95582996867
 - Queen sac (brilliant): https://lichess.org/B2HM0R89/white
 - Knight sac (brilliant): https://www.chess.com/analysis/game/live/88657857681
 - Knight sac = mate in 4: https://lichess.org/yOev2Hx6/white
