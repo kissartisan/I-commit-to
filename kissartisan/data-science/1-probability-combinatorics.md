@@ -1,0 +1,1 @@
+- All the different permutations of a single combination are different variations
