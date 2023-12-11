@@ -46,6 +46,7 @@
     - Regain the win by never saying die
 
 # High-accuracy games
+- 96.7% = Slav Defense: Modern Line: https://www.chess.com/analysis/game/live/96049548125
 - 93% = Queen's Gambit Declined: Modern Variation: https://www.chess.com/analysis/game/live/81057673315
 - 92.4% = Sicilian Defense: Closed, Traditional Line: https://www.chess.com/analysis/game/live/85250532859
 
