@@ -198,4 +198,5 @@
 - Queen's Gambit Accepted: https://www.chess.com/analysis/game/live/74945600039
 - Queen's Gambit Declined: Baltic Defense: https://www.chess.com/analysis/game/live/92853688645
     - Wild game. Counter attacks.
+- Budapest Gambit: Rubinstein Variation: https://www.chess.com/analysis/game/live/95864689313
 
