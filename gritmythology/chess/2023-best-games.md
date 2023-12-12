@@ -65,6 +65,8 @@
 ## Strong pieces positions
 - B27 Sicilian Defense: Hyperaccelerated Dragon: https://lichess.org/JHzWYay6/black
     - Twin tower bishop
+- Benko Gambit: https://www.chess.com/analysis/game/live/96129928083
+    - Strongest black bishop ever
 
 
 ## Black
