@@ -120,6 +120,7 @@
 ### Smooth and steady
 - Sicilian Defense: Accelerated Dragon, Modern Variation: https://lichess.org/cHVeHU55/black
 - Sicilian Defense: Hyperaccelerated Dragon Variation: https://www.chess.com/analysis/game/live/75802359463
+- Sicilian Defense: Hyperaccelerated Dragon, Fianchetto Variation: https://www.chess.com/analysis/game/live/96128730133
 
 
 ### Competitive Matches
