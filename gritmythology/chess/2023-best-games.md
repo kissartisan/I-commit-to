@@ -94,6 +94,7 @@
 - Queen's Gambit Declined: Exchange Variation: https://lichess.org/19V04UXE/white
 - King's Indian Defense: Smyslov Variation: https://lichess.org/MnBXCZqS/white
 - Sicilian Defense: Hyperaccelerated Dragon Variation: https://www.chess.com/analysis/game/live/95527181393
+- Queen's Gambit Declined: Pseudo-Tarrasch Defense: https://www.chess.com/analysis/game/live/96644892485
 
 ### Building pressure
 - Sicilian Defense: Open, Accelerated Dragon, Modern Variation: https://www.chess.com/analysis/game/live/75205227597
