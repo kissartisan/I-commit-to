@@ -101,6 +101,7 @@
 - Sicilian Defense: Old Sicilian Variation: https://www.chess.com/analysis/game/live/75889786359
 
 ### Hit and miss intense game
+- Queen's Gambit Declined: Exchange, Positional Line: https://www.chess.com/analysis/game/live/96646040727
 - Trompowsky attack: https://www.chess.com/analysis/game/live/92158857123
     - Quenless because of blunder, then built a defense using enemiy's pawns
 - Sicilian Defense: Old Sicilian Variation: https://www.chess.com/analysis/game/live/74096987287
