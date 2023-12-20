@@ -163,6 +163,7 @@
 - Queen's Gambit Declined: Baltic Defense: https://www.chess.com/analysis/game/live/75027105247
 
 ### Aggressive games
+- Benoni Defense: Benoni Gambit Accepted: Amazing attack (white): https://lichess.org/jDLIuz10/black
 - Old Benoni Defense: https://www.chess.com/analysis/game/live/74843450473
 - Englund Gambit: https://www.chess.com/analysis/game/live/75204120307
 - Queen's Pawn Game: Modern Defense: https://lichess.org/rSPqmMur/white
