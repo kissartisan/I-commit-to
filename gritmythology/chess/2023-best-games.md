@@ -131,6 +131,7 @@
 - Queen's Gambit Accepted: Saduleto Variation: https://lichess.org/v1yMdjtn/white
 - English Opening: Fianchetto, Ultra-Symmetrical, Mecking Variation: https://www.chess.com/analysis/game/live/73638665225
 - Sicilian Defense: McDonnell, Tal Gambit: https://www.chess.com/analysis/game/live/76155030169
+- Sicilian Defense: Hyperaccelerated Dragon Variation: https://www.chess.com/analysis/game/live/96796257185
 
 ## White
 
