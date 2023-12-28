@@ -18,3 +18,4 @@
 ### Poisson Distribution
 - Frequency with which an event occurs
 - `Po(λ)`
+- No event can happen a negative amount of times so it always starts with zero (0)
