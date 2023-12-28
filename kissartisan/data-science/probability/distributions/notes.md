@@ -4,6 +4,7 @@
 - Possess no predictive power
 
 ### Bernoulli Distribution
+- X ~ Bern (p)
 - E(Bernoulli event) - which outcome we expect for a single trial
 - E(Binomial event) - The number of times we expect to get a specific outcome
 
