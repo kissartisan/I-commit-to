@@ -5,7 +5,7 @@
 
 ### Bernoulli Distribution
 - X ~ Bern (p)
-- 1 Trial & 2 Possible Outcome follows a Bernoulli distribution
+- 1 **trial** & 2 **possible outcomes** follows a Bernoulli distribution
 - E(Bernoulli event) - which outcome we expect for a single trial
 - E(Binomial event) - The number of times we expect to get a specific outcome
 
