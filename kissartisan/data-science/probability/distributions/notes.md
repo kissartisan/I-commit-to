@@ -1,3 +1,7 @@
+### Uniform distribution
+- Each outcome is equally likely (e.g. rolling a 6-sided die)
+- Both the mean and variance are uninterpretable
+
 - E(Bernoulli event) - which outcome we expect for a single trial
 - E(Binomial event) - The number of times we expect to get a specific outcome
 
