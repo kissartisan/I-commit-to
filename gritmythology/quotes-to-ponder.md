@@ -1,3 +1,4 @@
+- Learn to anchor your identity not to what you do but why you do it - Maya Shankar
 - Triple down on making your strength a superpower
 - Triple down on your strengths and surround yourself with people that compliment your weakness. - Gary V
 - There's no permanent career in the world -- it's about the value the you'll leave that will stay permanent.
