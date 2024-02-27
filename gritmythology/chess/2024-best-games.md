@@ -8,3 +8,6 @@
 
 ### Trap Queen
 - (White) Queen's Gambit Declined: https://www.chess.com/game/live/101554282293
+
+### High Accuracy Games
+- (Black) Sicilian Defense: McDonnell Attack: https://www.chess.com/analysis/game/live/102752448843
