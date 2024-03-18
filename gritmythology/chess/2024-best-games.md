@@ -6,8 +6,9 @@
 - (White) Queen's Gambit Declined: Exchange, Positional Line: https://www.chess.com/analysis/game/live/101750640185
   - Two brilliant attacking moves
 
-### Trap Queen
+### Trapped Queens
 - (White) Queen's Gambit Declined: https://www.chess.com/game/live/101554282293
+- (White) Queen's Gambit Declined: Semi-Slav Defense, Accelerated Move-Order: https://www.chess.com/analysis/game/live/104496015915
 
 ### High Accuracy Games
 - (Black) Sicilian Defense: McDonnell Attack: https://www.chess.com/analysis/game/live/102752448843
