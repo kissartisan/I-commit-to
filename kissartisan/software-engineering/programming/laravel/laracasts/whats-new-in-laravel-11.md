@@ -13,3 +13,5 @@
    - All of the files on `app/Http/Middleware` are gone and it's been moved down into the Laravel framework
    - We can add our changes on the existing middlewares on `Providers/AppServiceProvider.php` > `boot()` method
    - For example, if we want to exclude a string on `TrimStrings` middleware, we can use `TrimString:except(['string_to_be_exempted'])` so `"string_to_be_exempted"` won't run on the existing `TrimStrings` middleware
+   - Another example is the existing middleware called `RedirectIfAuthenticated` where we use to redirect the user to a specific location
+     - On Laravel 11, we can use `RedirectIfAuthenticated::redirectUsing(fn ($request) => route('any_route_you_want'))` code to redirect them wherever you want
