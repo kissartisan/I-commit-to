@@ -9,9 +9,13 @@
      - On top of this change, `app.php` has no `providers` array key anymore
      - The provider registrations are now relocated to `bootstrap/providers.php`
    
-### 2. Missing Middleware
+### [2. Missing Middleware](https://laracasts.com/series/whats-new-in-laravel-11/episodes/2)
    - `app/Http/Middleware` is now an empty directory as the default files has been moved down into the Laravel framework
    - We can add our changes on the built-in middlewares on `Providers/AppServiceProvider.php` > `boot()` method
    - For example, if we want to exclude a string on `TrimStrings` middleware, we can use `TrimString:except(['string_to_be_exempted'])` so `"string_to_be_exempted"` won't run on the existing `TrimStrings` middleware
    - Another example is the built-in middleware called `RedirectIfAuthenticated` where we use to redirect the user to a specific location
      - On Laravel 11, we can use `RedirectIfAuthenticated::redirectUsing(fn ($request) => route('any_route_you_want'))` code to redirect them wherever we want
+   - Custom middlewares will still live in `app/Http/Middleware` directory
+   - There's also no `Kernel.php` in the application level in Laravel 11
+   - We now register custom middlewares on `bootstrap/app.php` > in `withMiddleware() {}` function
+      - e.g. `$middleware->web(MyCustomMiddleWare::class);` 
