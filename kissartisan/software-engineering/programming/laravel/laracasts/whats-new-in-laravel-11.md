@@ -9,3 +9,7 @@
      - On top of this change, `app.php` has no `providers` array key anymore
      - The provider registrations are now relocated to `bootstrap/providers.php`
    
+### 2. Missing Middleware
+   - All of the files on `app/Http/Middleware` are gone and it's been moved down into the Laravel framework
+   - We can add our changes on the existing middlewares on `Providers/AppServiceProvider.php` > `boot()` method
+   - For example, if we want to exclude a string on `TrimStrings` middleware, we can use `TrimString:except(['string_to_be_exempted'])` so `"string_to_be_exempted"` won't run on the existing `TrimStrings` middleware
