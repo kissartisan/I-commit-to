@@ -1,7 +1,7 @@
 
 ## [What's new in Laravel 11](https://laracasts.com/series/whats-new-in-laravel-11)?
 
-### 1. Fewer Config Files
+### 1. [Fewer Config Files](https://laracasts.com/series/whats-new-in-laravel-11/episodes/1)
    - Slimmed down the `config` directory
    - They been pulled down into the Laravel framework and at and any point we can bring them back to make changes as and when required
    - Run `php artisan config:publish` to see all of the config files that are available for us to publish
@@ -18,4 +18,6 @@
    - Custom middlewares will still live in `app/Http/Middleware` directory
    - There's also no `Kernel.php` in the application level in Laravel 11
    - We now register custom middlewares on `bootstrap/app.php` > in `withMiddleware() {}` function
-      - e.g. `$middleware->web(MyCustomMiddleWare::class);` 
+      - e.g. `$middleware->web(MyCustomMiddleWare::class);`
+- `ExceptionHandler` is also gone on Laravel 11
+      -  Customizing exceptions are also available `bootstrap/app.php` > `withExceptions {}` function
