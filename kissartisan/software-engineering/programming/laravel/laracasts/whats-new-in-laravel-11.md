@@ -34,3 +34,6 @@
       - `php artisan install:api` - when running this command you can also see info warnings in your terminal that you may need to follow as well
    - There's also no broadcasting by default but we can scaffold it using a single command
       - `php artisan install:broadcasting` 
+### 5. [Sqlite Out of the Box](https://laracasts.com/series/whats-new-in-laravel-11/episodes/5)
+   - Whenever you create a Laravel project using composer, when the application is constructed, it's actually going to install a `SQLite` database for us during installation and it will migrate the database right of the bat
+   - To change that default behavior, go in `.env` file and change `DB_CONNECTION` value to your needs (e.g. `MySQL`)
