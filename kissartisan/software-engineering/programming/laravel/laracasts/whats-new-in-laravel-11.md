@@ -9,7 +9,7 @@
      - On top of this change, `app.php` has no `providers` array key anymore
      - The provider registrations are now relocated to `bootstrap/providers.php`
    
-### [2. Missing Middleware](https://laracasts.com/series/whats-new-in-laravel-11/episodes/2)
+### 2. [Missing Middleware](https://laracasts.com/series/whats-new-in-laravel-11/episodes/2)
    - `app/Http/Middleware` is now an empty directory as the default files has been moved down into the Laravel framework
    - We can add our changes on the built-in middlewares on `Providers/AppServiceProvider.php` > `boot()` method
    - For example, if we want to exclude a string on `TrimStrings` middleware, we can use `TrimString:except(['string_to_be_exempted'])` so `"string_to_be_exempted"` won't run on the existing `TrimStrings` middleware
@@ -21,3 +21,9 @@
       - e.g. `$middleware->web(MyCustomMiddleWare::class);`
 - `ExceptionHandler` is also gone on Laravel 11
       -  Customizing exceptions are also available `bootstrap/app.php` > `withExceptions {}` function
+
+### 3. [Streamlined Scheduling](https://laracasts.com/series/whats-new-in-laravel-11/episodes/3)
+   - There's no `kernel.php` in the Laravel 11 skeleton
+   - Scheduling now can be put on `console.php` in the `routes.php` file
+      - We can call the `Schedule::command(...)->daily()` inside it
+      - We can now chain the CRON functions (`daily()`, `weekly()`, etc.) into any commands (e.g. `Artisan::command(...)->weekly()`)
