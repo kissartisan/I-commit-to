@@ -31,6 +31,6 @@
 
 ### 4. [Installing an API](https://laracasts.com/series/whats-new-in-laravel-11/episodes/4)
    - There's no `api.php` file on `/routes` directory but we can easily scaffold it using a single command
-      - `php artisan install:api` - when running this command you can also see info warning that you should follow as well
+      - `php artisan install:api` - when running this command you can also see info warnings in your terminal that you may need to follow as well
    - There's also no broadcasting by default but we can scaffold it using a single command
       - `php artisan install:broadcasting` 
