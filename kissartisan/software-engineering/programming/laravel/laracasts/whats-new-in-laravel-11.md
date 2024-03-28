@@ -24,6 +24,6 @@
 
 ### 3. [Streamlined Scheduling](https://laracasts.com/series/whats-new-in-laravel-11/episodes/3)
    - There's no `kernel.php` in the Laravel 11 skeleton
-   - Scheduling now can be put on `console.php` in the `routes.php` file
+   - Scheduling now can be put on `console.php` in the `/routes` directory
       - We can call the `Schedule::command(...)->daily()` inside it
       - We can now chain the CRON functions (`daily()`, `weekly()`, etc.) into any commands (e.g. `Artisan::command(...)->weekly()`)
