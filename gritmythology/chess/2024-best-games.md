@@ -5,6 +5,9 @@
 - (White) Indian Game: East Indian, Anti-Nimzo-Indian Variation: https://www.chess.com/analysis/game/live/98259953485
 - (White) Queen's Gambit Declined: Exchange, Positional Line: https://www.chess.com/analysis/game/live/101750640185
   - Two brilliant attacking moves
+ 
+### Counter attack brilliance
+- (Black) Old Benoni Defense: https://www.chess.com/analysis/game/live/105345037201
 
 ### Trapped Queens
 - (White) Queen's Gambit Declined: https://www.chess.com/game/live/101554282293
