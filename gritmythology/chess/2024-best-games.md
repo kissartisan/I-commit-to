@@ -18,4 +18,4 @@
 
 ### End game prowess
 - (White) Queen's Gambit Accepted: Old Variation https://www.chess.com/analysis/game/live/103219255133
-- (Black) Benko Gamit Accepted:  https://lichess.org/A0xlkdxC/black
+- (Black) Benko Gambit Accepted:  https://lichess.org/A0xlkdxC/black
