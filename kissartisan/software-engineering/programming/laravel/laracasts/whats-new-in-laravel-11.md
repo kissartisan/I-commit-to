@@ -59,3 +59,13 @@
            ->with(['posts' => fn ($query) => $query->latest()->limit(5)])
            ->paginate(5);
       ```
+   - Refactor Tip: You can put that code above into its own relationship:
+     ```
+        public function latestPosts(): HasMany
+        {
+           return $this->hasMany(Post::class)->latest()->limit(5);
+        }
+
+        // The previous example
+        User::whereHas('posts')->with('latestPosts')->paginate(5);
+      ```
