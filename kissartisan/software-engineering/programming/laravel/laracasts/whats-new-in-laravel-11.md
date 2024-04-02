@@ -43,3 +43,19 @@
    - On the previous Laravel versions, we already have the capability to chain `->dump()` or `->dd()` on Eloquent models and internal Laravel classes. 
    - But now, using the `Dumpable` trait we can now also chain it on our own classes
    - Since `Dumpable` is a trait, that means you can also override its existing methods (`dump()`, `dd()` )
+
+### 7. [Limitless Limits for Eager Loading](https://laracasts.com/series/whats-new-in-laravel-11/episodes/7)
+   - In Laravel 10, you cannot eager load associated Eloquent models properly while filtering or limiting the data. Example:
+     ```
+        User::whereHas('posts')
+           ->with(['posts' => fn ($query) => $query->latest()->limit(5)])
+           ->paginate(5);
+     ```
+      - That will only grab 5 posts all of the users instead of 5 posts per user
+      - This is due to limits in SQL and you have to install a separate package if you want to get around this constraint
+   -  In Laravel 11, it's exactly the opposite as it will correctly grab 5 posts per each user
+      ```
+        User::whereHas('posts')
+           ->with(['posts' => fn ($query) => $query->latest()->limit(5)])
+           ->paginate(5);
+      ```
