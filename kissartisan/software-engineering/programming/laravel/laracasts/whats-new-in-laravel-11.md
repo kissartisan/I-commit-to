@@ -39,6 +39,7 @@
    - Whenever you create a Laravel project using composer, when the application is constructed, it's actually going to install a `SQLite` database for us during installation and it will migrate the database right of the bat
    - To change that default behavior, go in `.env` file and change `DB_CONNECTION` value to your needs (e.g. `MySQL`)
 
-### 6. The Dumpable Trait
+### 6. [The Dumpable Trait](https://laracasts.com/series/whats-new-in-laravel-11/episodes/6)
       - On the previous Laravel versions, we already have the capability to chain `->dump()` or `->dd()` on Eloquent models and internal Laravel classes. 
       - But now, using the `Dumpable` trait we can now also chain it on our own classes
+      - Since `Dumpable` is a trait, that means you can override its existing methods (`dump()` && `dd()` )
