@@ -69,3 +69,8 @@
         // The previous example
         User::whereHas('posts')->with('latestPosts')->paginate(5);
       ```
+
+### 8. [Super Simple Memoization](https://laracasts.com/series/whats-new-in-laravel-11/episodes/8)
+   - A new helper called `once()` is introduced in Laravel 11 to only call the logic once if we wrapped it in the `once()` function
+   - The only time it will change is when a new request or new set of data comes in
+   - A super simple `once()` function that you can use anywhere in the codebase to ensure that no matter how many times you execute that code in the lifecycle of a request, it will only actually perform it once, and then the value will be returned to you.
