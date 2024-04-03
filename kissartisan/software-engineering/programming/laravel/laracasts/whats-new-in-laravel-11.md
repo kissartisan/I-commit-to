@@ -97,5 +97,5 @@
    - In Laravel 11, it's actually able to detect exactly which testing framework I'm using, and it will automatically select the right stub for me.
 
 ### 14. [Simple Tests for Complex Jobs](https://laracasts.com/series/whats-new-in-laravel-11/episodes/14)
-   - In previous Laravel versions, it is hard to test the status of job (released, deleted, failed) because we don't have a queue that's existing
+   - In previous Laravel versions, it is hard to test the statuses of jobs (released, deleted, failed) as we don't have an existing queue in a test environment
    - In Laravel 11, we can now chain `withFakeQueueInteractions()`, handle the job as a normal queue, and you can now use `assertReleased()`, `assertDeleted()` or `assertFailed()` methods.
