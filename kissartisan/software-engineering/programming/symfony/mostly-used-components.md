@@ -3,3 +3,4 @@
 - [The Finder Component](https://laracasts.com/series/discover-symfony-components/episodes/2)
 - [The VarDumper Component](https://laracasts.com/series/discover-symfony-components/episodes/3)
 - [The Event Dispatcher Component](https://laracasts.com/series/discover-symfony-components/episodes/4)
+- [The Request Object](https://laracasts.com/series/andres-larabits/episodes/15)
