@@ -80,3 +80,6 @@
 
 ### 10. [Per Second Rate Limits](https://laracasts.com/series/whats-new-in-laravel-11/episodes/10)
    - Laravel 11 now includes `perSecond()` on Laravel's rate limiter (Limit class). Previously they only limit the requests atleast using `perMinute()`
+
+### 11. [Retrying Asynchronous Requests](https://laracasts.com/series/whats-new-in-laravel-11/episodes/11)
+   - It is now possible to use `retry()` method on Laravel's asynchronous `Http::pool()` method to retry a specified number of times until it returns a successful response
