@@ -91,3 +91,7 @@
    - Laravel 11 attempts to make this process less painful by allowing you to define any previous keys before rotating encryption keys.
    - Using `APP_PREVIOUS_KEYS` env value, it will ensure that the previous keys will still parse the correct key even if you change your `APP_KEY`. So make sure you store your key to be replaced on `APP_PREVIOUS_KEYS` before running `php artisan key:rotate`
    - For session cookies, it will now re-encrypt automatically
+
+### 13. [No Need for Flags](https://laracasts.com/series/whats-new-in-laravel-11/episodes/13)
+   - Previous Laravel versions need to use e.g. `--pest` flag to create a Pest test file
+   - In Laravel 11, it's actually able to detect exactly which testing framework I'm using, and it will automatically select the right stub for me.
