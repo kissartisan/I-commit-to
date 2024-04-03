@@ -74,3 +74,6 @@
    - A new helper called `once()` is introduced in Laravel 11 to only call the logic once if we wrapped it in the `once()` function
    - The only time it will change is when a new request or new set of data comes in
    - A super simple `once()` function that you can use anywhere in the codebase to ensure that no matter how many times you execute that code in the lifecycle of a request, it will only actually perform it once, and then the value will be returned to you.
+
+### 9. [A Minor Tweak to Model Casts](https://laracasts.com/series/whats-new-in-laravel-11/episodes/9)
+   - The `$casts` property that Laravel provides us to cast data before we render it is now available as a function (`public function casts() {}`) instead to ensure a better readability and IDE syntax highlighting
