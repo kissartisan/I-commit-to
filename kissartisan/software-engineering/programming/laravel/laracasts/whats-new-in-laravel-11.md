@@ -77,3 +77,6 @@
 
 ### 9. [A Minor Tweak to Model Casts](https://laracasts.com/series/whats-new-in-laravel-11/episodes/9)
    - The `$casts` property that Laravel provides us to cast data before we render it is now available as a function (`public function casts() {}`) instead to ensure a better readability and IDE syntax highlighting
+
+### 10. [Per Second Rate Limits](https://laracasts.com/series/whats-new-in-laravel-11/episodes/10)
+   - Laravel 11 now includes `perSecond()` on Laravel's rate limiter (Limit class). Previously they only limit the requests using `perMinute()`
