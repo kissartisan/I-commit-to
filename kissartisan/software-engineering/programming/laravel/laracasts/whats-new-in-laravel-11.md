@@ -83,3 +83,11 @@
 
 ### 11. [Retrying Asynchronous Requests](https://laracasts.com/series/whats-new-in-laravel-11/episodes/11)
    - It is now possible to use `retry()` method on Laravel's asynchronous `Http::pool()` method to retry a specified number of times until it returns a successful response
+
+### 12. [Encryption Key Rotation](https://laracasts.com/series/whats-new-in-laravel-11/episodes/12)
+   - The `APP_KEY` in your `.env` file is used by Laravel to encrypt or decrypt values. The key is generated using `php artisan key:generate`
+   - If you generate a new key, existing auth sessions will be invalidated, meaning your users would logged out forcefully.
+   - Depending on your app key use cases, this could also throw a fatal to your project especially when you are encrypting/decrypting a custom value using your `.env` `APP_KEY`
+   - Laravel 11 attempts to make this process less painful by allowing you to define any previous keys before rotating encryption keys.
+   - Using `APP_PREVIOUS_KEYS` env value, it will ensure that the previous keys will still parse the correct key even if you change your `APP_KEY`. So make sure you store your key to be replaced on `APP_PREVIOUS_KEYS` before running `php artisan key:rotate`
+   - For session cookies, it will now re-encrypt automatically
