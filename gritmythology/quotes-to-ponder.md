@@ -1,3 +1,4 @@
+- There's 2 reasons you want to win at competition - "You need to win OR, you want to prove them wrong"
 - Learn to anchor your identity not to what you do but why you do it - Maya Shankar
 - Triple down on making your strength a superpower
 - Triple down on your strengths and surround yourself with people that compliment your weakness. - Gary V
