@@ -9,6 +9,7 @@
 - It's not about the fruits, it's the roots
 - It's not what you have. It's what you do.
 - Want more time? Focus.
+- "Focus breeds time"
 - Being rich is not about intelligence, it's about the mindset
 - Focus beats talent
 - Mouth shut, keep calm & stay in the present moment
