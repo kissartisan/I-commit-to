@@ -19,3 +19,6 @@
 ### End game prowess
 - (White) Queen's Gambit Accepted: Old Variation https://www.chess.com/analysis/game/live/103219255133
 - (Black) Benko Gambit Accepted:  https://lichess.org/A0xlkdxC/black
+
+### Tactician Magician
+- (White) Slav Defense: Modern, Chameleon Variation: https://www.chess.com/analysis/game/live/111084733165
