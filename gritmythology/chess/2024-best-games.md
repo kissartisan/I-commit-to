@@ -31,7 +31,7 @@
 - (White) Trompowsky Attack: https://www.chess.com/analysis/game/live/111437516321
 
 ### Continuous Pressure
-- (White) https://www.chess.com/analysis/game/live/112528242383: https://www.chess.com/analysis/game/live/112528242383
+- (White) Slav Defense: Modern, Triangle System: https://www.chess.com/analysis/game/live/112528242383
 
 ### Too Strong Position
 - (Black) Benko Gambit: https://www.chess.com/analysis/game/live/112529399227: 
