@@ -29,3 +29,6 @@
 ### From Losing to Winning
 - (Black) Nimzowitsch-Larsen Attack: English Variation: https://www.chess.com/analysis/game/live/111349878127
 - (White) Trompowsky Attack: https://www.chess.com/analysis/game/live/111437516321
+
+### Continuous Pressure
+- (White) https://www.chess.com/analysis/game/live/112528242383: https://www.chess.com/analysis/game/live/112528242383
