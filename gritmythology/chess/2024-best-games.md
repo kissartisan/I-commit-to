@@ -30,6 +30,9 @@
 - (Black) Nimzowitsch-Larsen Attack: English Variation: https://www.chess.com/analysis/game/live/111349878127
 - (White) Trompowsky Attack: https://www.chess.com/analysis/game/live/111437516321
 
+### Positional Advantage
+- (White) Trompowsky Attack: https://www.chess.com/analysis/game/live/113161747133
+
 ### Continuous Pressure
 - (White) Slav Defense: Modern, Triangle System: https://www.chess.com/analysis/game/live/112528242383
 
