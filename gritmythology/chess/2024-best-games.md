@@ -6,6 +6,8 @@
 - (White) Queen's Gambit Declined: Exchange, Positional Line: https://www.chess.com/analysis/game/live/101750640185
   - Two brilliant attacking moves
  
+- (White) Queen's Gambit Accepted: Old Variation: https://www.chess.com/analysis/game/live/113246408675
+ 
 ### Counter attack brilliance
 - (Black) Old Benoni Defense: https://www.chess.com/analysis/game/live/105345037201
 
