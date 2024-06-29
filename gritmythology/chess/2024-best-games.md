@@ -24,7 +24,6 @@
 
 ### Tactician Magician
 - (White) Slav Defense: Modern, Chameleon Variation: https://www.chess.com/analysis/game/live/111084733165
-- (Black) Réti Opening: King's Indian Attack, Symmetrical Defense https://www.chess.com/analysis/game/live/113375360477
 
 ### Competitive Games
 - (Black) Closed Sicilian Defense: Grand Prix Attack: https://www.chess.com/game/live/111087053361
@@ -40,4 +39,7 @@
 - (White) Slav Defense: Modern, Triangle System: https://www.chess.com/analysis/game/live/112528242383
 
 ### Too Strong Position
-- (Black) Benko Gambit: https://www.chess.com/analysis/game/live/112529399227: 
+- (Black) Benko Gambit: https://www.chess.com/analysis/game/live/112529399227:
+
+### Chaotic Games
+- (Black) Réti Opening: King's Indian Attack, Symmetrical Defense https://www.chess.com/analysis/game/live/113375360477
