@@ -27,6 +27,7 @@
 
 ### Competitive Games
 - (Black) Closed Sicilian Defense: Grand Prix Attack: https://www.chess.com/game/live/111087053361
+- (Black) Réti Opening: King's Indian Attack, Symmetrical Defense https://www.chess.com/analysis/game/live/113375360477
 
 ### From Losing to Winning
 - (Black) Nimzowitsch-Larsen Attack: English Variation: https://www.chess.com/analysis/game/live/111349878127
