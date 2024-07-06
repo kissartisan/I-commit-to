@@ -42,6 +42,7 @@
 
 ### Continuous Pressure
 - (White) Slav Defense: Modern, Triangle System: https://www.chess.com/analysis/game/live/112528242383
+- (White) Englund Gambit: Hartlaub-Charlick Gambit: https://www.chess.com/analysis/game/live/113994631847
 
 ### Too Strong Position
 - (Black) Benko Gambit: https://www.chess.com/analysis/game/live/112529399227:
