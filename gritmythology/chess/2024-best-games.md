@@ -8,6 +8,8 @@
 - (White) Queen's Gambit Accepted: Old Variation: https://www.chess.com/analysis/game/live/113246408675
 - (White) Queen's Gambit Declined: Modern Variation: https://www.chess.com/game/live/113762371139
   - Still pushing through aggression even on losing position
+- (White) Queen's Gambit Declined: Charousek Variation: https://www.chess.com/analysis/game/live/113994034565
+  - 95.3% accuracy
  
 ### Counter attack brilliance
 - (Black) Old Benoni Defense: https://www.chess.com/analysis/game/live/105345037201
