@@ -32,6 +32,7 @@
 
 ### Competitive Games
 - (Black) Closed Sicilian Defense: Grand Prix Attack: https://www.chess.com/game/live/111087053361
+- (White) Slav Defense: Modern, Bonet Gambit: https://www.chess.com/game/live/114461492613
 
 ### From Losing to Winning
 - (Black) Nimzowitsch-Larsen Attack: English Variation: https://www.chess.com/analysis/game/live/111349878127
