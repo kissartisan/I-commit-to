@@ -29,6 +29,7 @@
 
 ### Tactician Magician
 - (White) Slav Defense: Modern, Chameleon Variation: https://www.chess.com/analysis/game/live/111084733165
+- (White) Queen's Gambit Accepted: Classical Defense: https://www.chess.com/analysis/game/live/114932306967
 
 ### Competitive Games
 - (Black) Closed Sicilian Defense: Grand Prix Attack: https://www.chess.com/game/live/111087053361
