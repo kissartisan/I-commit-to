@@ -15,6 +15,8 @@
 - (Black) Old Benoni Defense: https://www.chess.com/analysis/game/live/105345037201
 - (Black) Alapin Sicilian Defense: https://www.chess.com/analysis/game/live/113762967565
   - Knight killer sacrifice
+- (Black) Sicilian Defense: Open, Accelerated Dragon, Exchange Variation: https://www.chess.com/analysis/game/live/116786441425
+  - Dragon slayer
 
 ### Trapped Queens
 - (White) Queen's Gambit Declined: https://www.chess.com/game/live/101554282293
