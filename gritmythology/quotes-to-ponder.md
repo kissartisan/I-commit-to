@@ -1,3 +1,4 @@
+- Know all the theories, master all the techniques, but as you touch a human soul be just another human soul. - Carl Jung
 - Beautiful things don't ask for attention
 - There's 2 reasons why you want to badly succeed at competition - "You need to win OR, you want to prove them wrong"
 - Learn to anchor your identity not to what you do but why you do it - Maya Shankar
