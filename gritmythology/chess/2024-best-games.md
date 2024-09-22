@@ -1,5 +1,6 @@
 ### In-Control
-- (White) Slav Defense: Modern Line: https://www.chess.com/game/live/120739801357 
+- (White) Slav Defense: Modern Line: https://www.chess.com/game/live/120739801357
+- (White) English Opening: https://www.chess.com/game/live/120740408127
 
 ### Smooth Wins
 - (Black) Old Benoni Defense: https://www.chess.com/analysis/game/live/97942892041
